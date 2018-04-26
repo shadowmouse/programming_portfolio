@@ -10,7 +10,7 @@ This repository is broken up into a number of folders that cover the area or lan
 
 ### Full projects
 
-* [Ballistic Hawk Game Physics Engine](https://github.com/shadowmouse/ballistic_hawk) -- PureJS (Bower Library Management)
+* [Ballistic Hawk Game Physics Engine](https://github.com/shadowmouse/ballistic_hawk) -- Pure JS (Bower Library Management)
 * [Burbage Law Website](http://www.burbagelaw.com/#/) -- AngularJS and PHP
 
 ### Elixir
