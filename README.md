@@ -12,7 +12,7 @@ This repository is broken up into a number of folders that cover the area or lan
 
 ### Elixir
 
-* locations.ex - A Model for an Elixir/Phoenix Application
+* [locations.ex](https://github.com/shadowmouse/programming_portfolio/blob/master/iOS/TSLManager.swift) - A Model for an Elixir/Phoenix Application
 * statistics_controller.ex - An API Endpoint controller for an Elixir/Phoenix Application
 
 ### iOS
