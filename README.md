@@ -12,12 +12,22 @@ This repository is broken up into a number of folders that cover the area or lan
 
 ### Elixir
 
-* [locations.ex](https://github.com/shadowmouse/programming_portfolio/blob/master/iOS/TSLManager.swift) - A Model for an Elixir/Phoenix Application
-* statistics_controller.ex - An API Endpoint controller for an Elixir/Phoenix Application
+* [locations.ex](https://github.com/shadowmouse/programming_portfolio/blob/master/Elixir/location.ex) - A Model for an Elixir/Phoenix Application
+* [statistics_controller.ex](https://github.com/shadowmouse/programming_portfolio/blob/master/Elixir/statistics_controller.ex) - An API Endpoint controller for an Elixir/Phoenix Application
 
 ### iOS
 
+* [Native Library Bridging](https://github.com/shadowmouse/programming_portfolio/tree/master/iOS/Native%20Library%20Bridging) - Bridging a Native Library (Objective-C) with no React Native Interface to work with React Native
+* [TSLManager.swift](https://github.com/shadowmouse/programming_portfolio/tree/master/iOS/TSLManager.swift) - Bridging the same library for use as a Swift Module
+
 ### Javascript
+
+* [APIModule.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/APIModule.js) - A base module for easing the building of fractal style folder organization in Express.js Node Servers
+* [BusManager.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/BusManager.js) - A small manager class for using multiple Eventer.js Buses on a single react component or js application
+* [Eventer.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/Eventer.js) - An instance-able singleton event bus for JS Applications 
+* [eventSupport.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/eventSupport.js) - A support class for calculating the on/off hours duration of an event from a provided configuration and event start/end time.
+* [GSIPT.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/GSIPT.js) - An ExpressJS API endpoint example based on the APIModule base class above.
+* [GSIPTWatch.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/GSIPTWatch.js) - A daemon script to monitor a directory for output from a scientific instrument and re-associate it to the originating order
 
 ### React
 
