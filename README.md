@@ -8,10 +8,15 @@ A significant portion of my projects are proprietary and so the full code is una
 
 This repository is broken up into a number of folders that cover the area or language contained there in. The first section is a link to full project repositories which I've worked on in my personal time and are in a state to be displayed or used. All other sections contain a list of the folder contents and a short description of the sample.
 
-### Full projects
+### Full projects - Personal or Consulting
 
 * [Ballistic Hawk Game Physics Engine](https://github.com/shadowmouse/ballistic_hawk) -- Pure JS (Bower Library Management)
 * [Burbage Law Website](http://www.burbagelaw.com/#/) -- AngularJS and PHP
+
+### Full projects - Proprietary and Public Facing
+
+* [U of Utah Health Science Cores Resource Management Site](https://resource.cores.utah.edu:3003) - React and Node
+* [U of Utah Health Science Cores Work Authorization Collection](https://workauth.cores.utah.edu:3001/) - React and Node
 
 ### Elixir
 
