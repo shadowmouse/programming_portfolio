@@ -1,5 +1,7 @@
 # Elliot Francis -- Sample Code Portfolio
 
+Last Updated : 2018-04-26
+
 A significant portion of my projects are proprietary and so the full code is unavailable to be run for demonstration purposes. This repository represents a selection of the code from those projects that I am most proud of AND is either useless on its own or represents non-proprietary methods. The intent is to give potential employers an overview of my programming and problem solving style in the languages that I am most familiar with.
 
 ## Structure
@@ -8,7 +10,8 @@ This repository is broken up into a number of folders that cover the area or lan
 
 ### Full projects
 
-* [Ballistic Hawk Game Physics Engine](https://github.com/shadowmouse/ballistic_hawk)
+* [Ballistic Hawk Game Physics Engine](https://github.com/shadowmouse/ballistic_hawk) -- PureJS (Bower Library Management)
+* [Burbage Law Website](http://www.burbagelaw.com/#/) -- AngularJS and PHP
 
 ### Elixir
 
