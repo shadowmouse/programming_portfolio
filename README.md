@@ -35,4 +35,4 @@ This repository is broken up into a number of folders that cover the area or lan
 
 ### React Native
 
- * [AssetDetail.js](https://github.com/shadowmouse/programming_portfolio/tree/master/React%20Native/Asset Detail.js) - A complete react native component from a iOS Inventory Management Application
+ * [AssetDetail.js](https://github.com/shadowmouse/programming_portfolio/blob/master/React%20Native/AssetDetail.js) - A complete react native component from a iOS Inventory Management Application
