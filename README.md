@@ -22,7 +22,7 @@ This repository is broken up into a number of folders that cover the area or lan
 
 ### Javascript
 
-* [APIModule.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/APIModule.js) - A base module for easing the building of fractal style folder organization in Express.js Node Servers
+* [APIModule.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/APIModule.js) - A base module for easing the building of nested folder style organization in Express.js Node Servers
 * [BusManager.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/BusManager.js) - A small manager class for using multiple Eventer.js Buses on a single react component or js application
 * [Eventer.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/Eventer.js) - An instance-able singleton event bus for JS Applications
 * [eventSupport.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/eventSupport.js) - A support class for calculating the on/off hours duration of an event from a provided configuration and event start/end time.
@@ -31,7 +31,7 @@ This repository is broken up into a number of folders that cover the area or lan
 
 ### React
 
-* [Sequence Order Form](https://github.com/shadowmouse/programming_portfolio/tree/master/React/SequenceOrderForm) - A Complete React Component in the Fractal Folder Organizational style.
+* [Sequence Order Form](https://github.com/shadowmouse/programming_portfolio/tree/master/React/SequenceOrderForm) - A Complete React Component in the nested folder organizational style.
 
 ### React Native
 
