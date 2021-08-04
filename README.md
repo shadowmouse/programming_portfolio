@@ -1,6 +1,6 @@
 # Elliot Francis -- Sample Code Portfolio
 
-Last Updated : 2018-04-26
+Last Updated : 2021-08-04
 
 A significant portion of my projects are proprietary and so the full code is unavailable to be run for demonstration purposes. This repository represents a selection of the code from those projects that I am most proud of AND is either useless on its own or represents non-proprietary methods. The intent is to give potential employers an overview of my programming and problem solving style in the languages that I am most familiar with.
 
@@ -36,6 +36,11 @@ This repository is broken up into a number of folders that cover the area or lan
 * [eventSupport.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/eventSupport.js) - A support class for calculating the on/off hours duration of an event from a provided configuration and event start/end time.
 * [GSIPT.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/GSIPT.js) - An ExpressJS API endpoint example based on the APIModule base class above.
 * [GSIPTWatch.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/GSIPTWatch.js) - A daemon script to monitor a directory for output from a scientific instrument and re-associate it to the originating order
+* [SeqREST.js](https://github.com/shadowmouse/programming_portfolio/tree/master/Javascript/SeqREST.js) - A Sequelize ORM wrapper for generating and exposing REST endpoints based on Sequelize Model Definitions to an ExpressJS based application.
+
+### Unit Tests
+
+* [Unit Tests](https://github.com/shadowmouse/programming_portfolio/blob/master/Unit%20Test) - Examples of Unit and Integration tests I've written.
 
 ### React
 
