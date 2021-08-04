@@ -40,7 +40,7 @@ This repository is broken up into a number of folders that cover the area or lan
 
 ### Unit Tests
 
-* [Unit Tests](https://github.com/shadowmouse/programming_portfolio/blob/master/Unit%20Test) - Examples of Unit and Integration tests I've written.
+* [Unit Tests](https://github.com/shadowmouse/programming_portfolio/tree/master/Unit%20Tests) - Examples of Unit and Integration tests I've written.
 
 ### React
 
